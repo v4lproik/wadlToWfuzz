@@ -1,4 +1,4 @@
-# GrabberZ
+# wadlToWfuzz
 
 ## Execution
 ```
